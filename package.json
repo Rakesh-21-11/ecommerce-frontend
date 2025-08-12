@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Rakesh-21-11/ecommerce-frontend.git",
+  "homepage": "https://github.com/Rakesh-21-11/ecommerce.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
